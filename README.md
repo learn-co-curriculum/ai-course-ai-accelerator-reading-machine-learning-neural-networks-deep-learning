@@ -21,7 +21,7 @@
                         <li><em>Model Evaluation</em><span>: Machine learning models are evaluated on their performance using metrics such as accuracy, precision, recall, and F1 score.</span></li>
                     </ul>
                     <p>&nbsp;</p>
-                    <p style="text-align: center;"><img src="https://learning.flatironschool.com/courses/6995/files/4132228/preview?verifier=g8ULUlg68rQvSs2VBjXMuknkC0bBo3HIDC80KJRv" alt="" width="796" height="532" data-api-endpoint="https://learning.flatironschool.com/api/v1/courses/6995/files/4132228" data-api-returntype="File">&nbsp;</p>
+                    <p style="text-align: center;"><img src="https://github.com/learn-co-curriculum/ai-course-ai-accelerator-reading-machine-learning-neural-networks-deep-learning/blob/main/computer_brain.png" alt="" width="796" height="532" data-api-endpoint="https://learning.flatironschool.com/api/v1/courses/6995/files/4132228" data-api-returntype="File">&nbsp;</p>
                     <p>&nbsp;</p>
                     <div>
                         <h3><span>Neural Networks</span></h3>

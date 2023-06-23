@@ -3,7 +3,7 @@
 <div>
     <h2><span>Introduction</span></h2>
     <br>
-    <div><span>There are three very import types of AI architectures that we should consider, viz. machine learning, neural networks, and deep learning where architecture refers to the design, structure, and algorithms used by the AI model.</span></div>
+    <div><span>AI architecture encompasses the fundamental elements crucial for constructing an artificial intelligence system, including its design, structure, and chosen algorithms. This lesson delves into the exploration of essential AI architecture concepts. Among the various types, machine learning, neural networks, and deep learning stand as key pillars that underpin the development and functioning of AI systems. By examining these foundational components, we can gain a deeper understanding of the intricate workings of artificial intelligence.</span></div>
     <div>
         <div>
             <div>

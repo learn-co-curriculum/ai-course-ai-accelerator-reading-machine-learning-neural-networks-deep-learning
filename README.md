@@ -3,7 +3,7 @@
 <div>
     <h2><span>Introduction</span></h2>
     <br>
-    <div><span>AI architecture encompasses the fundamental elements crucial for constructing an artificial intelligence system, including its design, structure, and chosen algorithms. This lesson delves into the exploration of essential AI architecture concepts. Among the various types, machine learning, neural networks, and deep learning stand as key pillars that underpin the development and functioning of AI systems. By examining these foundational components, we can gain a deeper understanding of the intricate workings of artificial intelligence.</span></div>
+    <div><span>AI architecture encompasses the fundamental elements crucial for constructing an artificial intelligence system, including its design, structure, and the algorithms chosen. This lesson delves into the exploration of essential AI architecture concepts. Among the various types of AI, machine learning, neural networks, and deep learning stand as the key pillars. By examining their foundational components, we can gain a deeper understanding of the intricate workings of artificial intelligence.</span></div>
     <div>
         <div>
             <div>
